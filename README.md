@@ -14,4 +14,4 @@ This work aligns machine learning with public health and nutritional policy stan
 ---
 
 ## 🔁 System Pipeline
-![Potential Pipeline](Gemini_Generated_Image_zdo8xazdo8xazdo8.png)
+![](<misc/Model Pipeline image.png>)
